@@ -1,4 +1,5 @@
 ### Graphics Extender v1.0
+https://www.nexusmods.com/sunkenland/mods/49
 <img width="2290" height="756" alt="image" src="https://github.com/user-attachments/assets/b18d6114-f0af-48e5-8726-35723eb58b46" />
 
 
